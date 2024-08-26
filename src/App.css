@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+@media (max-width: 768px) {
+    .footer-item {
+        background-color: black;
+        padding: 15px; /* Adjust padding for mobile */
+        font-size: 20px; /* Adjust font size for mobile */
+    }
+}
